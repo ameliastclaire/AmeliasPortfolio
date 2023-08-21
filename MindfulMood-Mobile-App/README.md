@@ -30,3 +30,24 @@ Welcome to the MindfulMood mobile app project! This app is designed to promote e
    ```bash
    git clone https://github.com/ameliastclaire/AmeliasPortfolio.git
 
+2. Install the necessary dependencies:
+   
+   ```bash
+   npm install
+
+3. Run the app on an emulator or device:
+   
+   ```bash
+   npm start
+
+
+# Contribution
+
+Contributions to this project are welcome! If you have suggestions, bug reports, or
+improvements, feel free to open an issue or create a pull request.
+
+# Contact
+
+For inquiries or collaboration opportunities, you can reach out to Amelia St. Claire at
+ameliastclaire@lcorpnow.com
+
